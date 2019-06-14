@@ -1,3 +1,3 @@
-# Python introduction
+# Python Introduction for Librarians
 ## Authors
-Petra
+Petra Gratzl
